@@ -1,0 +1,43 @@
+.fix-button-resetpw {
+  width: 200px !important;
+  height: 43px;
+  background-color: #ed143ddb;
+  margin-top: 10px !important;
+}
+
+.fix-button-resetpw {
+  border: 1px solid #f1e4e478 !important;
+}
+.login{
+  margin-top:-10px;
+  margin-left: 450px;
+  border-radius: 10px;
+  
+}
+.register{
+  margin-left: 400px;
+}
+.capcha{
+  display: flex;
+  /* margin-left: 340px; */
+  margin-left: 550px;
+  margin-top:-250px;
+}
+.login-form{
+  margin-left: 50px;
+  margin-bottom: 40px;
+  border-radius: 10px;
+  box-shadow: 2px 2px 20px 2px rgba(0, 0, 0, 0.2);
+  width: 500px;
+
+}
+.register-form{
+  margin-left: 200px;
+ border-radius: 5px;
+ box-shadow: 0px 2px 1px 0px #AAAAAA;
+ margin-bottom: 50px;
+  
+}
+.summit{
+  margin-left: 210px;
+}
